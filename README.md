@@ -31,23 +31,6 @@ This project focuses on analyzing historical gold price data to identify trends,
 
 ---
 
-## ⚙️ Installation & Usage
-
-1️⃣ **Clone the repository**
-bash
-git clone https://github.com/yourusername/gold-price-analysis.git
-cd gold-price-analysis
-2️⃣ Install dependencies
-pip install -r requirements.txt
-3️⃣ Run the Jupyter Notebook
-jupyter notebook "Analysis of Gold Price.ipynb"
-📊 Insights from the Analysis
-Gold prices often rise during economic uncertainty.
-
-USD strength typically shows inverse correlation with gold prices.
-
-Oil price fluctuations and inflation rates influence gold demand.
-
 📌 Future Improvements
 Create an interactive dashboard using Streamlit or Dash.
 
